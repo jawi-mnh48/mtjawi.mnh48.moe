@@ -131,3 +131,284 @@
     url("/assets/fonts/titillium-web-latin-900.woff2") format("woff2"),
     url("/assets/fonts/titillium-web-latin-900.woff") format("woff");
 }
+
+
+// Inject Amiri font to make Malay Jawi display good
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local("Amiri Regular"),
+    local("Amiri-Regular"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local("Amiri Slanted"),
+    local("Amiri-Slanted"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local("Amiri Regular"),
+    local("Amiri-Regular"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local("Amiri Slanted"),
+    local("Amiri-Slanted"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local("Amiri Regular"),
+    local("Amiri-Regular"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Regular.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local("Amiri Slanted"),
+    local("Amiri-Slanted"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Slanted.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local("Amiri Bold"),
+    local("Amiri-Bold"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local("Amiri BoldSlanted"),
+    local("Amiri-BoldSlanted"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-BoldSlanted.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-BoldSlanted.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local("Amiri Bold"),
+    local("Amiri-Bold"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local("Amiri BoldSlanted"),
+    local("Amiri-BoldSlanted"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-BoldSlanted.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-BoldSlanted.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local("Amiri Bold"),
+    local("Amiri-Bold"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff2") format("woff2"),
+    url("https://meta.mnh48.moe/public/font/amiri/Amiri-Bold.woff") format("woff");
+  unicode-range: U+0600-06FF, U+08A0-08FF;
+}
+
+
+// Inject Jawi comma font to display the commas and semicolons for Jawi correctly
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}
+
+@font-face {
+  font-family: "Titillium Web";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.woff") format("woff"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.ttf")  format("truetype"),
+    url("https://meta.mnh48.moe/public/font/jawicomma/jawicomma.svg#jawicomma") format("svg");
+  unicode-range: U+2E41, U+204F;
+}

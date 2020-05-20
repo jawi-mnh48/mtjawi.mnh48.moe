@@ -1,63 +1,65 @@
 players:
-  title: Pemain
+  title: ڤماءين
   features:
-    - title: Pilih daripada Pelbagai Permainan
+    - title: ڤيليه درڤد ڤلباݢاي ڤرماءينن
       description: >
-        Ada banyak permainan untuk dipilih. Anda boleh cuba untuk teruskan hidup
-        dalam suasana serba susah, atau bina apa jua secara kreatif, atau
-        berlawan dengan pemain yang lain. Anda hanya perlu [memuat turun permainan](/customize#permainan) atau sambung ke pelayan.
+        اد باڽق ڤرماءينن اونتوق دڤيليه. اندا بوليه چوبا اونتوق تروسکن هيدوڤ
+        دالم سواسان سرب سوسه⹁ اتاو بينا اڤ جوا سچار کريتيف⹁ اتاو
+        برلاوان دڠن ڤماءين يڠ لاءين. اندا هاڽ ڤرلو
+        [مموات تورون ڤرماءينن](/customize#ڤرماءينن)
+        اتاو سمبوڠ کڤلاين.
 
-    - title: Peta yang Amat Luas
+    - title: ڤتا يڠ امت لواس
       description: >
-        Dengan keluasan 62,000 × 62,000 × 62,000 blok, anda takkan kehabisan ruang.
-        Anda boleh menggali 31,000 blok ke bawah, atau membina 31,000 blok ke atas.
+        دڠن کلواسن 62,000 × 62,000 × 62,000 بلوک⹁ اندا تقکن کهابيسن رواڠ.
+        اندا بوليه مڠݢالي 31,000 بلوک کباواه⹁ اتاو ممبينا 31,000 بلوک کاتس.
 
-    - title: Sokongan Pemain Ramai
+    - title: سوکوڠن ڤماءين راماي
       description: >
-        Main berseorangan, main secara tempatan dengan kawan, atau main di atas
-        talian dengan berpuluh pemain lain dalam pelayan.
+        ماءين برسأورڠن⹁ ماءين سچار تمڤتن دڠن کاوان⹁ اتاو ماءين داتس
+        تالين دڠن برڤولوه ڤماءين لاءين دالم ڤلاين.
 
-    - title: Pek Tekstur
+    - title: ڤيک تيکستور
       description: >
-        Tak seronok dengan rupa tekstur?
-        [Tukarlah!](/customize#pek-tekstur)
+        تق سرونوق دڠن روڤ تيکستور؟
+        [توکرله!](/customize#ڤيک-تيکستور)
 
-    - title: Penjana Peta yang Cantik
+    - title: ڤنجان ڤتا يڠ چنتيق
       description: >
-        Pilih daripada beberapa penjana peta pantas yang berbeza yang disediakan
-        di dalam enjin, atau pasangkan penjana peta asing sebagai mods.
+        ڤيليه درڤد ببراڤ ڤنجان ڤتا ڤنتس يڠ برلاءينن يڠ دسديکن
+        ددالم اينجين⹁ اتاو ڤاسڠکن ڤنجان ڤتا اسيڠ سباݢاي مودس.
 
 developers:
-  title: Pembangun
+  title: ڤمباڠون
   features:
-    - title: Cipta Permainan
+    - title: چيڤت ڤرماءينن
       description: >
-        Cipta permainan boksel anda sendiri menggunakan
-        [API Lua](https://dev.minetest.net/Modding_Intro) kami.
-        Tak perlu risau mengenai pemapar boksel atau perangkaian yang merumitkan;
-        sebaliknya, tulis sahaja skrip untuk menambah item dan kawal gaya permainan.
+        چيڤت ڤرماءينن بوکسيل اندا سنديري مڠݢوناکن
+        [API Lua](https://dev.minetest.net/Modding_Intro) کامي.
+        تق ڤرلو ريساو مڠناءي ڤماڤر بوکسيل اتاو ڤرڠکاين يڠ مروميتکن⁏
+        سباليقڽ⹁ توليس سهاج سکريڤ اونتوق منمبه ايتم دان کاوال ݢاي ڤرماءينن.
 
-    - title: API Pembuatan Mods
+    - title: API ڤمبواتن مودس
       description: >
-        Gunakan API Lua yang sama untuk mencipta mods bagi sebarang permainan berasaskan Minetest.
-        Terbitkan mods anda di [forum](https://forum.minetest.net),
-        dan sumbang kepada mods orang lain.
+        ݢوناکن API Lua يڠ سام اونتوق منچيڤتا مودس باݢي سبارڠ ڤرماءينن براسسکن ماءينتيست.
+        تربيتکن مودس اندا د[فوروم](https://forum.minetest.net)⹁
+        دان سومبڠ کڤد مودس اورڠ لاءين.
 
-    - title: Himpunan Mods Sedia Ada yang Besar
+    - title: هيمڤونن مودس سدي اد يڠ بسر
       description: >
-        Terdapat lebih daripada 1,000 mods bersumber terbuka di forum kami
-        yang sedia untuk digunakan, disesuaikan, atau dipelajari.
+        ترداڤت لبيه 1,000 مودس برسومبر تربوک دفوروم کامي
+        يڠ سدي اونتوق دݢوناکن⹁ دسسوايکن⹁ اتاو دڤلاجري.
 
-    - title: Komuniti yang Mesra
+    - title: کومونيتي يڠ مسرا
       description: >
-        Anda boleh meminta bantuan dengan sebarang masalah di
-        [forum](https://forum.minetest.net) atau
-        [saluran IRC](/irc) kami.
+        اندا بوليه ممينتا بنتوان دڠن سبارڠ مسءله
+        د[فوروم](https://forum.minetest.net) اتاو
+        [سالورن IRC](/irc) کامي.
 
-    - title: Sumber Terbuka
+    - title: سومبر تربوک
       description: >
-        Enjin kami bersumber terbuka dan dibangunkan secara terbuka.
-        [Hantarkan isu](https://github.com/minetest/minetest/issues)
-        dalam bahasa Inggeris untuk apa-apa sahaja yang anda rasa belum wujud
-        dan diperlukan untuk kegunaan anda, atau dapatkan sumber kod dan cari jalan
-        untuk menambahnya sendiri.
+        اينجين کامي برسومبر تربوک دان دباڠونکن سچار تربوک.
+        [هنترکن ايسو](https://github.com/minetest/minetest/issues)
+        دالم بهاس ايڠݢريس اونتوق اڤ٢ سهاج يڠ اندا راس بلوم وجود
+        دان دڤرلوکن اونتوق کݢوناءن اندا⹁ اتاو داڤتکن سومبر کود دان چاري جالن
+        اونتوق منمبهڽ سنديري.

@@ -1,11 +1,11 @@
-# minetest.mnh48.moe
+# mtjawi.mnh48.moe
 
-The unofficial Malay translation of the official Minetest website, living at [minetest.mnh48.moe](https://minetest.mnh48.moe). This repository is for the Latin script version of Malay translation, please see [this one](https://github.com/jawi-mnh48/mtjawi.mnh48.moe) for Arabic script version of Malay translation.
+The unofficial Malay translation of the official Minetest website, living at [mtjawi.mnh48.moe](https://mtjawi.mnh48.moe). This repository is for the Arabic script version of Malay translation, please see [this one](https://github.com/mnh48-minetest/minetest.mnh48.moe) for Latin script version of Malay translation.
 
 
-*Sila baca [README_ms.md](README_ms.md) untuk baca fail ini dalam bahasa Melayu tulisan Rumi.*
+*Sila baca [README_ms.md](https://github.com/mnh48-minetest/minetest.mnh48.moe/blob/master/README_ms.md) untuk baca fail ini dalam bahasa Melayu tulisan Rumi.*
 
-<span lang="ms-Arab" dir="rtl">*سيلا باچ [README_ms-Arab.md](https://github.com/jawi-mnh48/mtjawi.mnh48.moe/blob/master/README_ms-Arab.md) اونتوق باچ فايل اين دالم بهاس ملايو توليسن جاوي.*</span>
+<span lang="ms-Arab" dir="rtl">*سيلا باچ [README_ms-Arab.md](README_ms-Arab.md) اونتوق باچ فايل اين دالم بهاس ملايو توليسن جاوي.*</span>
 
 ## Features
 

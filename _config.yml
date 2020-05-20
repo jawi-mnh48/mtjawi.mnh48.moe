@@ -10,7 +10,7 @@ exclude:
   - Gemfile
   - LICENSE.md
   - README.md
-  - README_ms.md
+  - README_ms-Arab.md
 
 liquid:
   error_mode: strict

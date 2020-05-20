@@ -1,19 +1,24 @@
 - name: Wiki
+  jawi: ويکي
   url: https://wiki.minetest.net
   icon: wiki.svg
 
 - name: Forum
+  jawi: فوروم
   url: https://forum.minetest.net
   icon: forum.svg
 
 - name: IRC
+  jawi: ساليڠ بوال اينترنيت
   url: https://wiki.minetest.net/IRC/ms
   icon: irc.svg
 
-- name: Pelayan
+- name: Server
+  jawi: ڤلاين
   url: /servers/
   icon: servers.svg
 
 - name: Reddit
+  jawi: ريدديت
   url: https://reddit.com/r/minetest
   icon: reddit.png
