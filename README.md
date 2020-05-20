@@ -1,6 +1,11 @@
-# www.minetest.net
+# minetest.mnh48.moe
 
-The official Minetest website, living at [www.minetest.net](https://www.minetest.net).
+The unofficial Malay translation of the official Minetest website, living at [minetest.mnh48.moe](https://minetest.mnh48.moe). This repository is for the Latin script version of Malay translation, please see [this one](https://github.com/jawi-mnh48/mtjawi.mnh48.moe) for Arabic script version of Malay translation.
+
+
+*Sila baca [README_ms.md](README_ms.md) untuk baca fail ini dalam bahasa Melayu tulisan Rumi.*
+
+<span lang="ms-Arab" dir="rtl">*سيلا باچ [README_ms-Arab.md](https://github.com/jawi-mnh48/mtjawi.mnh48.moe/blob/master/README_ms-Arab.md) اونتوق باچ فايل اين دالم بهاس ملايو توليسن جاوي.*</span>
 
 ## Features
 
@@ -24,6 +29,10 @@ This site uses the [Jekyll](https://jekyllrb.com) static site generator.
 
 Copyright © 2015-2019 Hugo Locurcio and contributors
 
-Unless otherwise specified, code is licensed under the MIT license.
-Media and content are licensed under
+Malay translation copyright © 2020 Yaya MNH48 and contributors
+
+
+Unless otherwise specified, code including the Malay version is licensed under the MIT license.
+
+Media and content including the Malay translations are licensed under
 [CC BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).

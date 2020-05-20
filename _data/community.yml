@@ -7,10 +7,10 @@
   icon: forum.svg
 
 - name: IRC
-  url: https://wiki.minetest.net/IRC
+  url: https://wiki.minetest.net/IRC/ms
   icon: irc.svg
 
-- name: Servers
+- name: Pelayan
   url: /servers/
   icon: servers.svg
 

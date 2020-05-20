@@ -1,61 +1,63 @@
 players:
-  title: Players
+  title: Pemain
   features:
-    - title: Choose from Multiple Games
+    - title: Pilih daripada Pelbagai Permainan
       description: >
-        There are many games to choose from. You could survive in a harsh
-        environment, build creatively, or fight other players.
-        Just [download a game](/customize#games) or connect to a server.
+        Ada banyak permainan untuk dipilih. Anda boleh cuba untuk teruskan hidup
+        dalam suasana serba susah, atau bina apa jua secara kreatif, atau
+        berlawan dengan pemain yang lain. Anda hanya perlu [memuat turun permainan](/customize#permainan) atau sambung ke pelayan.
 
-    - title: Enormous Maps
+    - title: Peta yang Amat Luas
       description: >
-        With 62,000 × 62,000 × 62,000 blocks, there's no running out of space.
-        You can mine 31,000 blocks down, or build 31,000 blocks up.
+        Dengan keluasan 62,000 × 62,000 × 62,000 blok, anda takkan kehabisan ruang.
+        Anda boleh menggali 31,000 blok ke bawah, atau membina 31,000 blok ke atas.
 
-    - title: Multiplayer Support
+    - title: Sokongan Pemain Ramai
       description: >
-        Play by yourself, locally with your friends, or online with
-        dozens of players on a server.
+        Main berseorangan, main secara tempatan dengan kawan, atau main di atas
+        talian dengan berpuluh pemain lain dalam pelayan.
 
-    - title: Texture Packs
+    - title: Pek Tekstur
       description: >
-        Not happy with the look of the textures?
-        [Change them!](/customize#texture-packs)
+        Tak seronok dengan rupa tekstur?
+        [Tukarlah!](/customize#pek-tekstur)
 
-    - title: Beautiful Map Generators
+    - title: Penjana Peta yang Cantik
       description: >
-        Choose from many different fast map generators included in the engine,
-        or install one as a mod.
+        Pilih daripada beberapa penjana peta pantas yang berbeza yang disediakan
+        di dalam enjin, atau pasangkan penjana peta asing sebagai mods.
 
 developers:
-  title: Developers
+  title: Pembangun
   features:
-    - title: Make a Game
+    - title: Cipta Permainan
       description: >
-        Create your own voxel game using our
-        [Lua API](https://dev.minetest.net/Modding_Intro).
-        No need to worry about tricky voxel rendering or networking;
-        instead, write scripts to add items and control game play.
+        Cipta permainan boksel anda sendiri menggunakan
+        [API Lua](https://dev.minetest.net/Modding_Intro) kami.
+        Tak perlu risau mengenai pemapar boksel atau perangkaian yang merumitkan;
+        sebaliknya, tulis sahaja skrip untuk menambah item dan kawal gaya permainan.
 
-    - title: Modding API
+    - title: API Pembuatan Mods
       description: >
-        Use the same Lua API to make mods for any Minetest-based game.
-        Publish your mods on the [forums](https://forum.minetest.net),
-        and contribute to others' mods.
+        Gunakan API Lua yang sama untuk mencipta mods bagi sebarang permainan berasaskan Minetest.
+        Terbitkan mods anda di [forum](https://forum.minetest.net),
+        dan sumbang kepada mods orang lain.
 
-    - title: Large Collection of Existing Mods
+    - title: Himpunan Mods Sedia Ada yang Besar
       description: >
-        There are over 1,000 open source mods on our forums which are ready
-        to be used, adapted or learned from.
+        Terdapat lebih daripada 1,000 mods bersumber terbuka di forum kami
+        yang sedia untuk digunakan, disesuaikan, atau dipelajari.
 
-    - title: Friendly Community
+    - title: Komuniti yang Mesra
       description: >
-        You can find help with any problems on our
-        [forums](https://forum.minetest.net) or
-        [IRC channels](/irc).
+        Anda boleh meminta bantuan dengan sebarang masalah di
+        [forum](https://forum.minetest.net) atau
+        [saluran IRC](/irc) kami.
 
-    - title: Open Source
+    - title: Sumber Terbuka
       description: >
-        The engine is open source and transparently developed.
-        [Submit an issue](https://github.com/minetest/minetest/issues)
-        for anything you're missing, or get the source code and dig into it yourself.
+        Enjin kami bersumber terbuka dan dibangunkan secara terbuka.
+        [Hantarkan isu](https://github.com/minetest/minetest/issues)
+        dalam bahasa Inggeris untuk apa-apa sahaja yang anda rasa belum wujud
+        dan diperlukan untuk kegunaan anda, atau dapatkan sumber kod dan cari jalan
+        untuk menambahnya sendiri.

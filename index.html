@@ -1,5 +1,5 @@
 ---
-title: Open source voxel game engine
+title: Enjin permainan boksel bersumber terbuka
 layout: default
 homepage: true
 redirect_from:
@@ -12,19 +12,19 @@ redirect_from:
       <div class="column is-10 is-9-desktop is-8-widescreen is-7-fullhd">
         <h1 class="title">Minetest</h1>
         <p class="home-paragraph">
-          An open source voxel game engine.
-          Play one of our many games, mod a game to your liking, make your own game,
-          or play on a multiplayer server.
+          Sebuah enjin permainan boksel bersumber terbuka.
+          Mainlah salah sebuah daripada permainan kami yang pelbagai, ubahlah permainan menggunakan mods mengikut citarasa, ciptalah permainan anda sendiri,
+          atau mainlah di pelayan pemain ramai.
         </p>
         <p class="home-paragraph">
-          Available for Windows, macOS, GNU/Linux, FreeBSD, OpenBSD, DragonFly BSD, and Android.
+          Boleh didapati untuk Windows, macOS, GNU/Linux, FreeBSD, OpenBSD, DragonFly BSD, dan Android.
         </p>
         <div class="home-buttons">
-          <a class="button is-info is-size-5" href="#features">Tell me more</a>
-          <a class="button is-primary is-size-5" href="/downloads/">Download</a>
+          <a class="button is-info is-size-5" href="#ciri-ciri">Beritahu lebih lanjut</a>
+          <a class="button is-primary is-size-5" href="/downloads/">Muat turun</a>
         </div>
         <p class="is-size-6">
-          <span class="has-text-weight-bold">News:</span> 5.2.0 released. (April 5<sup>th</sup> 2020)
+          <span class="has-text-weight-bold">Berita:</span> versi 5.2.0 diterbitkan. (5 April 2020)
         </p>
       </div>
     </div>
@@ -33,11 +33,11 @@ redirect_from:
 
 <section class="section">
   <div class="container">
-    <h2 id="features" class="title section-title">Features</h2>
+    <h2 id="ciri-ciri" class="title section-title">Ciri-ciri</h2>
     <div class="columns is-centered">
       {% for category_hash in site.data.features %}
       {% comment %}
-        The assignment below is required to be able to iterate on the nested hash.
+        Penyerahhakan berikut diperlukan untuk membolehkan proses lelaran di cincangan bersarang.
       {% endcomment %}
       {% assign category = category_hash[1] %}
 
@@ -56,11 +56,11 @@ redirect_from:
 
 <section class="section">
   <div class="container">
-    <h2 id="gallery" class="title section-title">Gallery</h2>
+    <h2 id="galeri" class="title section-title">Galeri</h2>
     <div class="columns is-multiline">
       {% comment %}
-        Thumbnail file names are inferred from the image name.
-        For example, the thumbnail for `foo.jpg` will be `foo-thumb.jpg`.
+        Nama fail imej kecil didatangkan daripada nama imej.
+        Sebagai contoh, imej kecil untuk imej bernama `foo.jpg` akan dinamakan sebagai `foo-thumb.jpg`.
       {% endcomment %}
 
       {% for image in site.data.gallery %}
